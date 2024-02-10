@@ -12,7 +12,7 @@
 </p>
 
 <h4 align="center">
-  Low code food service website.
+  Simple food service website.
 </h4>
 
 <p align="center">
